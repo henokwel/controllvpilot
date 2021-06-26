@@ -1,0 +1,12 @@
+{
+  "name": "controllVpilot",
+  "displayName": "controllVpilot",
+  "expo": {
+    "name": "controllVpilot",
+    "slug": "controllVpilot",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
